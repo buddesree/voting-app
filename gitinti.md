@@ -5,4 +5,6 @@ git status
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/buddesree/voting-app.git
+or
+git remote set-url origin https://github.com/buddesree/voting-app.git
 git push -u origin main
